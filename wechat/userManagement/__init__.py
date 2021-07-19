@@ -1,0 +1,1 @@
+from homework.wechat.userManagement.api.user import User

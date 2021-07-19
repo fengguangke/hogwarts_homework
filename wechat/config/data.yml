@@ -1,0 +1,7 @@
+wechat:
+  corpid: "ww28471c3132f34cc3"
+  corpsecret: "Z1ZHIQxm-_hw9ibrLfaskbq9gCNaSnXTUBDBO7vajOU"
+  baseUrl:
+    user: "https://qyapi.weixin.qq.com/cgi-bin/user"
+    department: "https://qyapi.weixin.qq.com/cgi-bin/department"
+    token: "https://qyapi.weixin.qq.com/cgi-bin/gettoken"
