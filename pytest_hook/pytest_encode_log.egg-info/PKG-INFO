@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: pytest-encode-log
+Version: 0.0.1
+Summary: set your encoding and set log
+Home-page: https://github.com/pypa/sampleproject
+Author: hiyongz
+Author-email: zhiyo2016@163.com@example.com
+License: MIT License
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Description: show Chinese for your mark.parametrize().
+Keywords: pytest,py.test,pytest_log
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Pytest
+Classifier: Topic :: Software Develoment :: Testing
+Requires-Python: >=3.6
